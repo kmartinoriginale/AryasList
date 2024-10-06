@@ -71,3 +71,9 @@ Apache License 2.0 est semblable à la MIT Licence. Je l'ai choisie car elle est
 22. Création d'une pull-request.
 
     ![image](https://github.com/user-attachments/assets/1279338f-62ca-4497-a360-3813b7697abd)
+
+23. Relecture et merge.
+
+    ![image](https://github.com/user-attachments/assets/f01b70cc-5513-4117-86c3-cdd978480395)
+    ![image](https://github.com/user-attachments/assets/4986b6ed-1dce-4b73-ac5d-b2f9a5f1f682)
+
