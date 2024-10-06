@@ -77,3 +77,6 @@ Apache License 2.0 est semblable à la MIT Licence. Je l'ai choisie car elle est
     ![image](https://github.com/user-attachments/assets/f01b70cc-5513-4117-86c3-cdd978480395)
     ![image](https://github.com/user-attachments/assets/4986b6ed-1dce-4b73-ac5d-b2f9a5f1f682)
 
+24. Constatation du merge.
+
+    ![image](https://github.com/user-attachments/assets/1964901a-d45e-4409-8881-11926e902c62)
