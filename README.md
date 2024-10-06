@@ -44,7 +44,30 @@ Apache License 2.0 est semblable à la MIT Licence. Je l'ai choisie car elle est
     ![image](https://github.com/user-attachments/assets/8ca87be8-b3c8-427a-bad1-79ded2174c11)
     ![image](https://github.com/user-attachments/assets/5bc13d80-7cf5-4b2e-a926-17e32cb86813)
 
-14. Historique poussé sur la branche distante.
+14. Historique poussé sur la branche distante. (soucis de numérotation à partir de là: réponse n°14)
 
     ![image](https://github.com/user-attachments/assets/0277a292-1966-465f-9f6f-13f062097165)
 
+15 & 16. Création d'une branche locale et vérification de la liste.
+
+   ![image](https://github.com/user-attachments/assets/a994ee7c-1c2d-4a48-acc8-03f4e3369d35)
+
+17. Vérification de la branche sur laquelle est dirigé le pointeur HEAD.
+
+    ![image](https://github.com/user-attachments/assets/95a2b23f-4880-40da-8bf6-be8591c382a7)
+
+18. Positionnement sur la nouvelle branche: feat/doneByArya. (2 méthodes)
+
+    ![image](https://github.com/user-attachments/assets/21077b0a-43d5-402d-8217-b89624f9f0e8)
+
+20. Modification des fichiers et commit en conséquence.
+
+    ![image](https://github.com/user-attachments/assets/d204d72e-fcd9-4efe-bfa6-7a97182ad5e9)
+
+21. J'ai essayé de pousser l'historique sur le dépôt distant, en vain.
+
+    ![image](https://github.com/user-attachments/assets/9ac4d94f-695f-47f8-9636-72e9f6911d58)
+
+22. Création d'une pull-request.
+
+    ![image](https://github.com/user-attachments/assets/1279338f-62ca-4497-a360-3813b7697abd)
